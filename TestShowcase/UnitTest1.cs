@@ -38,7 +38,7 @@ namespace TestShowcase
             double expected = 6;
 
             //Act
-            double actual = Calculator.Subtract(3, 2);
+            double actual = Calculator.Multiply(3, 2);
 
             //Assert
             Assert.Equal(expected, actual);

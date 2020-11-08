@@ -19,7 +19,6 @@
 /Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskOne/bin/Debug/netcoreapp3.1/xunit.assert.dll
 /Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskOne/bin/Debug/netcoreapp3.1/xunit.core.dll
 /Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskOne/bin/Debug/netcoreapp3.1/xunit.execution.dotnet.dll
-/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskOne/obj/Debug/netcoreapp3.1/TaskOne.csprojAssemblyReference.cache
 /Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskOne/obj/Debug/netcoreapp3.1/TaskOne.AssemblyInfoInputs.cache
 /Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskOne/obj/Debug/netcoreapp3.1/TaskOne.AssemblyInfo.cs
 /Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskOne/obj/Debug/netcoreapp3.1/TaskOne.csproj.CoreCompileInputs.cache
