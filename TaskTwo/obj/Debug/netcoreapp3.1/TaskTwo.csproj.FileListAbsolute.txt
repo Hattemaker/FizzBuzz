@@ -19,6 +19,7 @@
 /Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/bin/Debug/netcoreapp3.1/xunit.assert.dll
 /Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/bin/Debug/netcoreapp3.1/xunit.core.dll
 /Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/bin/Debug/netcoreapp3.1/xunit.execution.dotnet.dll
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/obj/Debug/netcoreapp3.1/TaskTwo.csprojAssemblyReference.cache
 /Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/obj/Debug/netcoreapp3.1/TaskTwo.AssemblyInfoInputs.cache
 /Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/obj/Debug/netcoreapp3.1/TaskTwo.AssemblyInfo.cs
 /Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/obj/Debug/netcoreapp3.1/TaskTwo.csproj.CoreCompileInputs.cache

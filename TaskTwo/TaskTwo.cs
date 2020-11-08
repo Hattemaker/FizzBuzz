@@ -35,8 +35,8 @@ namespace TaskTwo
             {
                 //set the multiple rules for this program
                 var x = (i % 4 == 0) && (i % 9 == 0);
-                var y = i % 4 == 0;
-                var z = i % 9 == 0;
+                var y = i % 9 == 0;
+                var z = i % 4 == 0;
 
                 //checks and replaces if conditions are met
                 if (x) Console.WriteLine("JazzFuzz");
