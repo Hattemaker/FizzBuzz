@@ -6,12 +6,12 @@ namespace TaskOne
     {
         public static void Main()
         {
-            FizzBuzz(100);
+            FizzBuzz(1, 100);
         }
 
-        static void FizzBuzz(int max)
+        static void FizzBuzz(int min, int max)
         {
-            for (var i = 1; i <= max; i++)
+            for (var i = min; i <= max; i++)
             {
                 //set the multiple rules for this program
                 var x = (i % 3 == 0) && (i % 5 == 0);
