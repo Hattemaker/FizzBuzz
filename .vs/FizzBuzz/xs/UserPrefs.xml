@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{4A3198D0-FDA3-4C51-BE57-0F28C091618A}|Default">
+  <MonoDevelop.Ide.ItemProperties.TaskOne PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskTwo/TaskTwo.cs">
+    <Files>
+      <File FileName="TaskOne/Program.cs" Line="12" Column="38" />
+      <File FileName="TestShowcase/UnitTest1.cs" Line="6" Column="27" />
+      <File FileName="TaskOne/Calculator.cs" Line="10" Column="1" />
+      <File FileName="TaskTwo/TaskTwo.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FizzBuzz" expanded="True">
+            <Node name="TaskOne" expanded="True">
+              <Node name="TaskOne.cs" selected="True" />
+            </Node>
+            <Node name="TaskTwo" expanded="True" />
+            <Node name="TestShowcase" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="FizzBuzz" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
