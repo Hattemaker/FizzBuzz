@@ -1,5 +1,5 @@
 ## FizzBuzzJazzFuzz
-Dette er et prosjekt i forbindelse med invervjuprosess hos Epinova
+Dette er et prosjekt i forbindelse med invervjuprosess hos Epinova.
 
 Prosjektet inkluderer:
 - FizzBuzz
