@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskOne/TaskOne.csproj": {}
+    "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/FizzBuzz/FizzBuzz.csproj": {}
   },
   "projects": {
-    "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskOne/TaskOne.csproj": {
+    "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/FizzBuzz/FizzBuzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskOne/TaskOne.csproj",
-        "projectName": "TaskOne",
-        "projectPath": "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskOne/TaskOne.csproj",
+        "projectUniqueName": "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/FizzBuzz/FizzBuzz.csproj",
+        "projectName": "FizzBuzz",
+        "projectPath": "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/FizzBuzz/FizzBuzz.csproj",
         "packagesPath": "/Users/magnusneergaard/.nuget/packages/",
-        "outputPath": "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskOne/obj/",
+        "outputPath": "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/FizzBuzz/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/magnusneergaard/.config/NuGet/NuGet.Config"

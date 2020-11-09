@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/JazzFuzz.csproj": {}
+    "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/JazzFuzz/JazzFuzz.csproj": {}
   },
   "projects": {
-    "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/JazzFuzz.csproj": {
+    "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/JazzFuzz/JazzFuzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/JazzFuzz.csproj",
+        "projectUniqueName": "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/JazzFuzz/JazzFuzz.csproj",
         "projectName": "JazzFuzz",
-        "projectPath": "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/JazzFuzz.csproj",
+        "projectPath": "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/JazzFuzz/JazzFuzz.csproj",
         "packagesPath": "/Users/magnusneergaard/.nuget/packages/",
-        "outputPath": "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/obj/",
+        "outputPath": "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/JazzFuzz/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/magnusneergaard/.config/NuGet/NuGet.Config"
@@ -35,12 +35,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "xunit": {
-              "target": "Package",
-              "version": "[2.4.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
