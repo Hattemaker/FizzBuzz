@@ -25,5 +25,6 @@ Dette er det første prosjektet jeg har skrevet i  C#, har hovedsaklig holdt på
 - FizzBuzzV2
   - En bedre konfigurering av FizzBuzz, uten like stor grad av kodeduplikasjon
 - FizzBuzzV2Test
+  - Fungerende test av FizzBuzzV2
 
 Prosjektet er delt med [Kristian Borg](https://github.com/BorgKristian) og [Thomas Leela](https://github.com/tholee).
