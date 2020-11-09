@@ -5,7 +5,7 @@ namespace FizzBuzz
 {
     public class FizzBuzzv2
     {
-        static void Main(String[] args)
+        public static void Main(String[] args)
         {
             //creates a new object of getNumber
             GetNumber getNumber = new GetNumber();

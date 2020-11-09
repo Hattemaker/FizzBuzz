@@ -1,25 +1,25 @@
-﻿<Properties StartupConfiguration="{34CB2505-6A69-4506-B222-DFB3EDA0C620}|Default">
-  <MonoDevelop.Ide.ItemProperties.JazzFuzz FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.FizzBuzzV2 FirstBuild="True" />
+﻿<Properties StartupConfiguration="{6C2EAD0E-7DCD-4BA6-A76A-3F85DD733328}|Default">
+  <MonoDevelop.Ide.ItemProperties.FizzBuzzV2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TestShowcase PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.FizzBuzz FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="JazzFuzz/JazzFuzz.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JazzFuzzProject/JazzFuzz.cs">
     <Files>
-      <File FileName="TestShowcase/Calculator.cs" Line="1" Column="1" />
-      <File FileName="TestShowcase/UnitTest1.cs" Line="1" Column="1" />
-      <File FileName="FizzBuzz/FizzBuzz.cs" Line="29" Column="1" />
-      <File FileName="JazzFuzz/JazzFuzz.cs" Line="46" Column="10" />
+      <File FileName="FizzBuzzV2/FizzBuzzv2.cs" Line="2" Column="14" />
+      <File FileName="FizzBuzzV2/GetNumber.cs" Line="3" Column="39" />
+      <File FileName="FizzBuzzV2/IFizzBuzz.cs" Line="3" Column="16" />
+      <File FileName="FizzBuzzV2Test/FizzBuzzV2Test.cs" Line="7" Column="6" />
+      <File FileName="FizzBuzzProject/FizzBuzz.cs" Line="27" Column="6" />
+      <File FileName="JazzFuzzProject/JazzFuzz.cs" Line="49" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FizzBuzz" expanded="True">
-            <Node name="FizzBuzz" expanded="True" />
+            <Node name="FizzBuzzProject" expanded="True" />
             <Node name="FizzBuzzV2" expanded="True" />
-            <Node name="FizzBuzzV2Test" expanded="True" />
-            <Node name="JazzFuzz" expanded="True">
-              <Node name="JazzFuzz.cs" selected="True" />
+            <Node name="FizzBuzzV2Test" expanded="True">
+              <Node name="Dependencies" expanded="True" />
             </Node>
+            <Node name="JazzFuzzProject" expanded="True" selected="True" />
             <Node name="TestShowcase" expanded="True">
               <Node name="Dependencies" expanded="True" />
             </Node>
@@ -28,8 +28,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FizzBuzzProject FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.FizzBuzzV2Test FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.JazzFuzzProject FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

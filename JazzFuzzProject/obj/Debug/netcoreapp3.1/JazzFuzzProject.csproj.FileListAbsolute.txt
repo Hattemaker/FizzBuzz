@@ -1,0 +1,15 @@
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/JazzFuzzProject/bin/Debug/netcoreapp3.1/JazzFuzzProject.deps.json
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/JazzFuzzProject/bin/Debug/netcoreapp3.1/JazzFuzzProject.runtimeconfig.json
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/JazzFuzzProject/bin/Debug/netcoreapp3.1/JazzFuzzProject.runtimeconfig.dev.json
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/JazzFuzzProject/bin/Debug/netcoreapp3.1/JazzFuzzProject.dll
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/JazzFuzzProject/bin/Debug/netcoreapp3.1/JazzFuzzProject.pdb
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/JazzFuzzProject/bin/Debug/netcoreapp3.1/FizzBuzzProject.dll
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/JazzFuzzProject/bin/Debug/netcoreapp3.1/FizzBuzzProject.pdb
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/JazzFuzzProject/obj/Debug/netcoreapp3.1/JazzFuzzProject.csprojAssemblyReference.cache
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/JazzFuzzProject/obj/Debug/netcoreapp3.1/JazzFuzzProject.AssemblyInfoInputs.cache
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/JazzFuzzProject/obj/Debug/netcoreapp3.1/JazzFuzzProject.AssemblyInfo.cs
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/JazzFuzzProject/obj/Debug/netcoreapp3.1/JazzFuzzProject.csproj.CoreCompileInputs.cache
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/JazzFuzzProject/obj/Debug/netcoreapp3.1/JazzFuzzProject.csproj.CopyComplete
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/JazzFuzzProject/obj/Debug/netcoreapp3.1/JazzFuzzProject.dll
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/JazzFuzzProject/obj/Debug/netcoreapp3.1/JazzFuzzProject.pdb
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/JazzFuzzProject/obj/Debug/netcoreapp3.1/JazzFuzzProject.genruntimeconfig.cache

@@ -93,4 +93,3 @@
 /Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TestShowcase/obj/Debug/netcoreapp3.1/TestShowcase.dll
 /Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TestShowcase/obj/Debug/netcoreapp3.1/TestShowcase.pdb
 /Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TestShowcase/obj/Debug/netcoreapp3.1/TestShowcase.genruntimeconfig.cache
-/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TestShowcase/obj/Debug/netcoreapp3.1/TestShowcase.csprojAssemblyReference.cache
