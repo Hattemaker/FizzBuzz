@@ -1,0 +1,17 @@
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/bin/Debug/netcoreapp3.1/JazzFuzz.deps.json
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/bin/Debug/netcoreapp3.1/JazzFuzz.runtimeconfig.json
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/bin/Debug/netcoreapp3.1/JazzFuzz.runtimeconfig.dev.json
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/bin/Debug/netcoreapp3.1/JazzFuzz.dll
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/bin/Debug/netcoreapp3.1/JazzFuzz.pdb
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/bin/Debug/netcoreapp3.1/xunit.abstractions.dll
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/bin/Debug/netcoreapp3.1/xunit.assert.dll
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/bin/Debug/netcoreapp3.1/xunit.core.dll
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/bin/Debug/netcoreapp3.1/xunit.execution.dotnet.dll
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/obj/Debug/netcoreapp3.1/JazzFuzz.AssemblyInfoInputs.cache
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/obj/Debug/netcoreapp3.1/JazzFuzz.AssemblyInfo.cs
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/obj/Debug/netcoreapp3.1/JazzFuzz.csproj.CoreCompileInputs.cache
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/obj/Debug/netcoreapp3.1/JazzFuzz.csproj.CopyComplete
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/obj/Debug/netcoreapp3.1/JazzFuzz.dll
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/obj/Debug/netcoreapp3.1/JazzFuzz.pdb
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/obj/Debug/netcoreapp3.1/JazzFuzz.genruntimeconfig.cache
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/obj/Debug/netcoreapp3.1/JazzFuzz.csprojAssemblyReference.cache

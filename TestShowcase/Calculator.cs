@@ -1,5 +1,4 @@
-﻿using System;
-namespace TestShowcase
+﻿namespace TestShowcase
 {
     public class Calculator
     {

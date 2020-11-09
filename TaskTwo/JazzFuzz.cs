@@ -1,16 +1,16 @@
 ﻿using System;
 
-namespace TaskTwo
+namespace JazzFuzz
 {
-    public class TaskTwo
+    public class JazzFuzz
     {
         public static void Main()
         {
-            FizzBuzz(1, 100);
-            JazzFuzz(100, 1);
+            RunFizzBuzz(1, 100);
+            RunJazzFuzz(100, 1);
         }
 
-        static void FizzBuzz(int min, int max)
+        static void RunFizzBuzz(int min, int max)
         {
             //loops from min to max
             for (var i = min; i <= max; i++)
@@ -28,7 +28,7 @@ namespace TaskTwo
             }
         }
 
-        static void JazzFuzz(int max, int min)
+        static void RunJazzFuzz(int max, int min)
         {
             //loops from max to min
             for (var i = max; i >= min; i--)

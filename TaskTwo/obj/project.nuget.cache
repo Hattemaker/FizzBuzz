@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6cyXEk+GxnvIpsIO9N5PmtKWs8vd+3b96jdwjPY6dbXb+xudHxNRMnk3R1o41y5tMdiKPdmY+NInqlzmbirt7w==",
+  "dgSpecHash": "f6WGz0oWdpXGKDss7FHTU86Of/lx0sWq3Cjm1yKiBk3Tbu3/DVTxokwz6M3O1/IZ5BMVHkGuKGKt8QUTDC83hA==",
   "success": true,
-  "projectFilePath": "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/TaskTwo.csproj",
+  "projectFilePath": "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/JazzFuzz.csproj",
   "expectedPackageFiles": [
     "/Users/magnusneergaard/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/magnusneergaard/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",

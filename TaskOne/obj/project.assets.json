@@ -4651,9 +4651,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskOne/TaskOne.csproj",
-      "projectName": "TaskOne",
-      "projectPath": "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskOne/TaskOne.csproj",
+      "projectUniqueName": "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskOne/FizzBuzz.csproj",
+      "projectName": "FizzBuzz",
+      "projectPath": "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskOne/FizzBuzz.csproj",
       "packagesPath": "/Users/magnusneergaard/.nuget/packages/",
       "outputPath": "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskOne/obj/",
       "projectStyle": "PackageReference",

@@ -1,15 +1,15 @@
 ﻿using System;
 
-namespace TaskOne
+namespace FizzBuzz
 {
-    public class TaskOne
+    public class FizzBuzz
     {
         public static void Main()
         {
-            FizzBuzz(1, 100);
+            RunGame(1, 100);
         }
 
-        static void FizzBuzz(int min, int max)
+        static void RunGame(int min, int max)
         {
             for (var i = min; i <= max; i++)
             {
@@ -27,11 +27,3 @@ namespace TaskOne
         }
     }
 }
-/**TODO**¨
- * Fungerer som den skal + teknisk kvalitet på koden
- * Navngivning
- * Organisering
- * SOLID-prinsipper
- * Moderne features
- * Testing (XUnit)
- * */

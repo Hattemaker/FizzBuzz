@@ -4651,9 +4651,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/TaskTwo.csproj",
-      "projectName": "TaskTwo",
-      "projectPath": "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/TaskTwo.csproj",
+      "projectUniqueName": "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/JazzFuzz.csproj",
+      "projectName": "JazzFuzz",
+      "projectPath": "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/JazzFuzz.csproj",
       "packagesPath": "/Users/magnusneergaard/.nuget/packages/",
       "outputPath": "/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/TaskTwo/obj/",
       "projectStyle": "PackageReference",

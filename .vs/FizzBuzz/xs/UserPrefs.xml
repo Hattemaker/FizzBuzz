@@ -1,21 +1,30 @@
 ﻿<Properties StartupConfiguration="{4A3198D0-FDA3-4C51-BE57-0F28C091618A}|Default">
-  <MonoDevelop.Ide.ItemProperties.TaskOne PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TaskTwo/TaskTwo.cs">
+  <MonoDevelop.Ide.ItemProperties.JazzFuzz PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FizzBuzzV2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.FizzBuzz PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestShowcase/UnitTest1.cs">
     <Files>
-      <File FileName="TaskOne/Program.cs" Line="12" Column="38" />
-      <File FileName="TestShowcase/UnitTest1.cs" Line="6" Column="27" />
-      <File FileName="TaskOne/Calculator.cs" Line="10" Column="1" />
-      <File FileName="TaskTwo/TaskTwo.cs" Line="1" Column="1" />
+      <File FileName="TaskTwo/TaskTwo.cs" Line="20" Column="36" />
+      <File FileName="TaskOne/Program.cs" Line="10" Column="10" />
+      <File FileName="TaskOne/GetNumber.cs" Line="5" Column="6" />
+      <File FileName="TaskOne/FizzBuzzInterface.cs" Line="7" Column="2" />
+      <File FileName="TaskOne/FizzBuzzProgram.cs" Line="6" Column="18" />
+      <File FileName="FizzBuzzTest/UnitTest1.cs" Line="3" Column="18" />
+      <File FileName="TestShowcase/Calculator.cs" Line="1" Column="1" />
+      <File FileName="TestShowcase/UnitTest1.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FizzBuzz" expanded="True">
-            <Node name="TaskOne" expanded="True">
-              <Node name="TaskOne.cs" selected="True" />
+            <Node name="FizzBuzz" expanded="True" />
+            <Node name="FizzBuzzV2" expanded="True" />
+            <Node name="FizzBuzzV2Test" expanded="True" />
+            <Node name="JazzFuzz" expanded="True" />
+            <Node name="TestShowcase" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="UnitTest1.cs" selected="True" />
             </Node>
-            <Node name="TaskTwo" expanded="True" />
-            <Node name="TestShowcase" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -26,6 +35,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FizzBuzzV2Test FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
