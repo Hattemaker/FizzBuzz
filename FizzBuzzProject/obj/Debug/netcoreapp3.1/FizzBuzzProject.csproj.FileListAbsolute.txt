@@ -3,6 +3,7 @@
 /Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/FizzBuzzProject/bin/Debug/netcoreapp3.1/FizzBuzzProject.runtimeconfig.dev.json
 /Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/FizzBuzzProject/bin/Debug/netcoreapp3.1/FizzBuzzProject.dll
 /Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/FizzBuzzProject/bin/Debug/netcoreapp3.1/FizzBuzzProject.pdb
+/Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/FizzBuzzProject/obj/Debug/netcoreapp3.1/FizzBuzzProject.csprojAssemblyReference.cache
 /Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/FizzBuzzProject/obj/Debug/netcoreapp3.1/FizzBuzzProject.AssemblyInfoInputs.cache
 /Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/FizzBuzzProject/obj/Debug/netcoreapp3.1/FizzBuzzProject.AssemblyInfo.cs
 /Users/magnusneergaard/Projects/FizzBuzz/FizzBuzz/FizzBuzzProject/obj/Debug/netcoreapp3.1/FizzBuzzProject.csproj.CoreCompileInputs.cache
