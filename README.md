@@ -11,7 +11,7 @@ Dette er et prosjekt i forbindelse med invervjuprosess hos Epinova.
 - TestShowcase
   - En enkel kalkulator
   - Testklasse for kalkulatoren
-    - denne for å vise en fungerende test, da jeg i første iterasjon ikke helt kom i mål med FizzBuzzV2Test
+    - denne for å vise en fungerende test, da jeg i første iterasjon ikke helt kom i mål med FizzBuzz
 
 Dette er det første prosjektet jeg har skrevet i  C#, har hovedsaklig holdt på med Java, Phython, PHP, samt litt GoLang tidligere.
 
