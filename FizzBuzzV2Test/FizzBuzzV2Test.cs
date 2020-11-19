@@ -1,11 +1,11 @@
 ﻿using Xunit;
 using FizzBuzz;
 
-namespace FizzBuzzV2Test
+namespace JazzFuzzV2Test
 {
     public class FizzBuzzV2Test
     {
-        GetNumber number = new GetNumber();
+        Rules number = new Rules();
 
         [Fact]
         public void TestOne()
@@ -14,7 +14,7 @@ namespace FizzBuzzV2Test
             var expected = "1";
 
             //Act
-            string actual = number.GetNewNumber(1);
+            string actual = number.MultipleRules(1);
 
             //Assert
             Assert.Equal(expected, actual);
@@ -27,8 +27,9 @@ namespace FizzBuzzV2Test
             var expected = "Fizz";
 
             //Act
-            string actual = number.GetNewNumber(3);
+            string actual = number.MultipleRules(3);
 
+            //Assert
             Assert.Equal(expected, actual);
         }
 
@@ -39,7 +40,7 @@ namespace FizzBuzzV2Test
             var expected = "Buzz";
 
             //Act
-            string actual = number.GetNewNumber(5);
+            string actual = number.MultipleRules(5);
 
             //Assert
             Assert.Equal(expected, actual);

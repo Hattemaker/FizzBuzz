@@ -1,33 +1,30 @@
-﻿<Properties StartupConfiguration="{0BB13BB8-EA5B-4367-ADA4-08A90FC85BEC}|Default">
+﻿<Properties StartupConfiguration="{6C2EAD0E-7DCD-4BA6-A76A-3F85DD733328}|Default">
   <MonoDevelop.Ide.ItemProperties.FizzBuzzV2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.TestShowcase PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="JazzFuzzProject/JazzFuzz.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FizzBuzzV2Test/FizzBuzzV2Test.cs">
     <Files>
-      <File FileName="FizzBuzzV2/FizzBuzzv2.cs" Line="8" Column="22" />
-      <File FileName="FizzBuzzV2/GetNumber.cs" />
-      <File FileName="FizzBuzzV2/IFizzBuzz.cs" />
-      <File FileName="FizzBuzzV2Test/FizzBuzzV2Test.cs" />
-      <File FileName="FizzBuzzProject/FizzBuzz.cs" />
-      <File FileName="JazzFuzzProject/JazzFuzz.cs" Line="19" Column="58" />
+      <File FileName="FizzBuzzV2/FizzBuzzV2.cs" Line="7" Column="33" />
+      <File FileName="JazzFuzzV2/JazzFuzzV2.cs" Line="6" Column="33" />
+      <File FileName="FizzBuzzV2/Rules.cs" Line="5" Column="49" />
+      <File FileName="FizzBuzzV2/IFizzBuzz.cs" Line="3" Column="38" />
+      <File FileName="FizzBuzzV2Test/FizzBuzzV2Test.cs" Line="4" Column="25" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FizzBuzz" expanded="True">
-            <Node name="FizzBuzzProject" expanded="True" />
             <Node name="FizzBuzzV2" expanded="True" />
-            <Node name="FizzBuzzV2Test" expanded="True" />
-            <Node name="JazzFuzzProject" expanded="True">
-              <Node name="JazzFuzz.cs" selected="True" />
+            <Node name="FizzBuzzV2Test" expanded="True">
+              <Node name="FizzBuzzV2Test.cs" selected="True" />
             </Node>
-            <Node name="TestShowcase" expanded="True" />
+            <Node name="JazzFuzzV2" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.JazzFuzzV2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FizzBuzzV2Test PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.JazzFuzzProject PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
