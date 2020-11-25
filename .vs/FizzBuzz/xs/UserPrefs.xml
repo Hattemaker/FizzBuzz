@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{A5C537D4-C4FF-4FAA-93EB-8BDC25E75C4A}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.FizzBuzz PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FizzBuzzV2Test/FizzBuzzTest.cs">
+    <Files>
+      <File FileName="FizzBuzzV2/Rules.cs" Line="2" Column="1" />
+      <File FileName="FizzBuzzV2/FizzBuzzProgram.cs" Line="44" Column="1" />
+      <File FileName="FizzBuzzV2/IFizzBuzzProgram.cs" Line="1" Column="1" />
+      <File FileName="FizzBuzzV2Test/FizzBuzzTest.cs" Line="7" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FizzBuzz" expanded="True">
+            <Node name="FizzBuzz" expanded="True" />
+            <Node name="FizzBuzzTest" expanded="True">
+              <Node name="FizzBuzzTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FizzBuzzTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
