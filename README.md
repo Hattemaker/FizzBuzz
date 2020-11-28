@@ -12,6 +12,8 @@ Dette er det første prosjektet jeg har skrevet i  C#, har hovedsaklig holdt på
   - mappen inneholder en bedre konfigurering av FizzBuzz, hvor FizzBuzzGame tar i bruk interface IFizzBuzzGame og et sett med regler. For hver kjøring av programmet gjennom RunGame(list) må en legge til regler man selv ønsker (en string og en multiplier Int) gjennom metoden Rules.Add(). På denne måten kan programmet kjøres med ønskede parametre uten å endre noe kode.
   - Etter en kjøring kan man også velge å kjøre metoden Rules.Clear() for å fjerne de nåværende parametre.
   - Dersom en vil kjøre listen (1-100) baklengs har man mulighet til å gjøre dette ved å bytte ut parameter "list" med "reversedList".
+- FizzBuzzTest
+  - En uendret test fra tidligere iterasjon som sjekker om ønsket resultat tilsvarer faktisk resultat.
 
 ### Fjernet
 I denne iterasjonen av oppgaven har jeg fjernet tidligere iterasjoner av oppgaven, da disse ikke lenger var ønsket å ha med, samt fjernet unødvendige filer. Har også lagt til .gitignore med parametre jeg mener var passende, og ser selv nå ikke at noen uønskede mapper eller filer blir hengende igjen i prosjektet.
